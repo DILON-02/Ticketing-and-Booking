@@ -17,7 +17,7 @@
 
 **👨‍💻 Developed by DILON P G**
 
-**🏫 VSB College of Engineering Technical Campus**
+**🏫 VSB College of Engineering**
 
 </div>
 
@@ -51,14 +51,14 @@ The application manages a booking request from **initial submission → seat ava
 # 📋 Project Information
 
 | 🔖 Details          | 📌 Information                              |
-| ------------------- | ------------------------------------------- |
+| ------------------- | -------------------------------------------  |
 | 🎬 **Project**      | Movie Ticket Booking                        |
 | ⚙️ **Platform**     | Pega                                        |
 | 📂 **Application**  | `NIP-MovieTicket-DILONPG`                   |
 | 📝 **Case Type**    | `Ticketing Management`                      |
-| 👨‍💻 **Developer** | DILON P G                                   |
+| 👨‍💻 **Developer**    | DILON P G                                   |
 | 🎓 **Course**       | CSE (AI & ML)                               |
-| 🏫 **College**      | VSB College of Engineering Technical Campus |
+| 🏫 **College**      | VSB College of Engineering                  |
 | 📍 **State**        | Tamil Nadu                                  |
 | 👤 **Operator**     | DILON P G                                   |
 | 🆔 **Operator ID**  | `DilonPG@uplus`                             |
